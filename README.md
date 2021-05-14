@@ -1,6 +1,8 @@
 <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<p align="left"> 🦄 Sobre: <br>
+## **Sobre Mim**
+
+<p align="left"> 🦄 <br>
   <strong>Desenvolvedor focado em aprender novas tecnologias, especialmente, Front End; procuro uma vaga para entrar no mercado de trabalho e aplicar meus conhecimentos.</strong>
 </p>
 
@@ -20,6 +22,8 @@
 <a href="https://github.com/abreujpedro">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abreujpedro&show_icons=true&theme=dracula&line_height=27" alt="**João Pedro** github stats"/>
 </a>
+
+## **Redes Sociais**
 
 <p align="left">
   💌 Entre em contato comigo: ⤵️
