@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<p align="left"> 
-  Desenvolvedor focado em aprender novas tecnologias, especialmente, Front End; procuro uma vaga para entrar no mercado de trabalho e aplicar meus conhecimentos.
+<p align="left"> 🦄 Linguagens: <br>
+  <strong>Desenvolvedor focado em aprender novas tecnologias, especialmente, Front End; procuro uma vaga para entrar no mercado de trabalho e aplicar meus conhecimentos.</strong>
 </p>
 
 <p align="left">
-  💼 Linguagens eFerramentas: 
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></strong>
-  code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  💼 Linguagens eFerramentas: <br>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </p>
 
