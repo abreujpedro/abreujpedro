@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<p align="left"> 🦄 Linguagens: <br>
+<p align="left"> 🦄 Sobre: <br>
   <strong>Desenvolvedor focado em aprender novas tecnologias, especialmente, Front End; procuro uma vaga para entrar no mercado de trabalho e aplicar meus conhecimentos.</strong>
 </p>
 
