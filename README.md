@@ -16,13 +16,13 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/jp.dellabianca@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/jp.dellabianca@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/joao-pedro-della-bianca" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joao-pedro-della-bianca" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5518988211708&text=sua%20mensagem" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5518988211708&text=sua%20mensagem"/></a>
 
 
