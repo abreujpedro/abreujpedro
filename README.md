@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 🦄 Sobre: <br>
   <strong>Desenvolvedor focado em aprender novas tecnologias, especialmente, Front End; procuro uma vaga para entrar no mercado de trabalho e aplicar meus conhecimentos.</strong>
@@ -11,18 +11,28 @@
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </p>
 
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=abreujpedro&theme=dracula&hide_langs_below=1 />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=abreujpedro&show_icons=true&theme=dracula&line_height=27" alt="**João Pedro** github stats"/>
+</a>
+
 <p align="left">
   💌 Entre em contato comigo: ⤵️
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/jp.dellabianca@gmail.com" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/jp.dellabianca@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/jp.dellabianca@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/joao-pedro-della-bianca" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/joao-pedro-della-bianca" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joao-pedro-della-bianca" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=5518988211708&text=sua%20mensagem" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5518988211708&text=sua%20mensagem" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5518988211708&text=sua%20mensagem"/></a>
 
 
