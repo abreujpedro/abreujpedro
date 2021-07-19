@@ -3,7 +3,7 @@
 ## **Sobre Mim**
 
 <p align="left"> 🦄 <br>
-  <strong>Desenvolvedor focado em aprender novas tecnologias, especialmente, Front End; procuro uma vaga para entrar no mercado de trabalho e aplicar meus conhecimentos.</strong>
+  <strong>Desenvolvedor focado em aprender novas tecnologias, especialmente, Front End.</strong>
 </p>
 
 <p align="left">
