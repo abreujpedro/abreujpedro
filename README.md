@@ -1,4 +1,4 @@
-<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://i.pinimg.com/originals/dd/01/a1/dd01a1ef021bcf2c7d8e9e9d391d2910.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 ## **Sobre Mim**
 
