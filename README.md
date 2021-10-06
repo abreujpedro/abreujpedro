@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/870476/screenshots/9538828/media/4a85a40fd8e991a0341f7e9edacd2e63.jpg?compress=1&resize=400x300" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://cdn.dribbble.com/users/870476/screenshots/9538828/media/4a85a40fd8e991a0341f7e9edacd2e63.jpg?compress=1&resize=400x300" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 ## **Sobre Mim**
 
