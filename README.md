@@ -3,7 +3,7 @@
 ## **Sobre Mim**
 
 <p align="left"> 🦄 <br>
-  <strong>Desenvolvedor focado em aprender novas tecnologias, especialmente, desenvolvimento web.</strong>
+  <strong>Desenvolvedor focado em aprender novas tecnologias, especialmente, ferramentas para web.</strong>
 </p>
 
 <p align="left">
