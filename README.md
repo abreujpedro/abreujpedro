@@ -1,13 +1,10 @@
 
-
-## **Sobre Mim**
-
 <p align="left"> 🦄 <br>
-  <strong>Desenvolvedor focado em aprender novas tecnologias, especialmente, ferramentas para web.</strong>
+  <strong>I'm a web developer, creating solutions through software.I learn something new every day</strong>
 </p>
 
 <p align="left">
-  💼 Linguagens e Ferramentas: <br>
+  💼 Tools: <br>
  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -18,20 +15,10 @@
  <img height="30" src=" https://camo.githubusercontent.com/f2c80b28082b1568bf6ae3e4b999dcf6916e4f7ef611aa48efed85198ebe53a9/68747470733a2f2f6a6573746a732e696f2f696d672f6a6573742e706e67">
 
 
-## **GitHub Estatísticas**
-
-<a href="https://github.com/abreujpedro">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=abreujpedro&theme=dracula&hide_langs_below=1 />
-</a>
-
-<a href="https://github.com/abreujpedro">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=abreujpedro&show_icons=true&theme=dracula&line_height=27" alt="**João Pedro** github stats"/>
-</a>
-
-## **Redes Sociais**
+## **Social medias**
 
 <p align="left">
-  💌 Entre em contato comigo: ⤵️
+  💌 : ⤵️
 </p>
 
 <p align="left">
