@@ -1,6 +1,6 @@
 
 <p align="left"> 🦄 <br>
-  <strong>I'm a web developer, creating solutions through software.I learn something new every day</strong>
+  <strong>I'm a web developer, creating solutions through software. I have been learning something new every day</strong>
 </p>
 
 <p align="left">
