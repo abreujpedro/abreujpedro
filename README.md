@@ -6,9 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-della-bianca/)
 
-## Oi, tudo bem?!
-
-Minha jornada na computação começou muito cedo, desde pequeno comecei a mexer com computadores e fui aprimorando meus conhecimentos, atualmente estou cursando ciências da computação e estou apaixonado pela área.
 
 
 
